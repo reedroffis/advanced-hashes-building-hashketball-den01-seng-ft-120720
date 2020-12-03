@@ -118,13 +118,13 @@ def game_hash
       :slam_dunks => 0
       },
       {
-      :player_name => "Brendan Haywood",
+      :player_name => "Kemba Walker",
       :number => 33,
       :shoe => 15,
       :points => 6,
       :rebounds => 12,
       :assists => 12,
-      :steals => 22,
+      :steals => 7,
       :blocks => 5,
       :slam_dunks => 12
       }
